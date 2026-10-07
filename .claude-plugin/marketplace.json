@@ -11,7 +11,7 @@
       "source": "./",
       "displayName": "engram",
       "description": "Recall and store durable per-user memory in engram over SSH, and migrate old markdown memory files.",
-      "version": "1.0.75",
+      "version": "1.0.77",
       "author": {
         "name": "crinklywrappr"
       },
